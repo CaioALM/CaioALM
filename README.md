@@ -30,7 +30,7 @@ Fun facts about me:
   <img align="center" alt="mongo" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="postgresql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
    <img align="center" alt="Typescript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-   <img align="center" alt="Typescript" height="60" width="70" src="https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light">
+   <img align="center" alt="Typescript" height="60" width="70" src="https://skills.thijs.gg/icons?i=prisma&theme=light">
 <!--    https://devicon.dev/ -->
     
  <!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
